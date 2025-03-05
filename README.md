@@ -1,4 +1,6 @@
 # Python Implementation of Dynamic Mode Decomposition
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmukappalambda%2Fdmd.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmukappalambda%2Fdmd?ref=badge_shield)
+
 
 This python code illustrates how to apply Dynamic Mode Decomposition (DMD) to univariate time series forecasting tasks.
 
@@ -47,3 +49,7 @@ pip uninstall dmd -y
 ## History
 
 - Tweak the HackMD note more readable and add the Python code inside that note.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmukappalambda%2Fdmd.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmukappalambda%2Fdmd?ref=badge_large)
